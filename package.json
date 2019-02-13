@@ -1,0 +1,23 @@
+{
+  "name": "gitt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YossraGharbi/github-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YossraGharbi/github-test/issues"
+  },
+  "homepage": "https://github.com/YossraGharbi/github-test#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
